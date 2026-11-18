@@ -1,0 +1,6 @@
+{
+  "name": "FoodTrace – Food Safety & Traceability",
+  "description": "Comprehensive Food Contamination Detection and Traceability System to track food products from farm to fork by unique Batch ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
